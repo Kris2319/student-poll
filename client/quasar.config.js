@@ -63,9 +63,9 @@ module.exports = configure(function ( ctx ) {
       vueRouterMode: 'history', // available values: 'hash', 'history'
       env: {
         BASE_URL: ctx.dev ? 'http://localhost:3000' : 'http://44.204.181.91',
-        CREATOR_NAME: 'Henning Seip',
-        CREATOR_EMAIL: 'henning@bronxsoftware.org',
-        LINKEDIN: 'https://www.linkedin.com/in/henningseip/',
+        CREATOR_NAME: 'Kristoffer Waite',
+        CREATOR_EMAIL: 'Kristoffer.Waite@bronxsoftware.org',
+        LINKEDIN: 'https://www.linkedin.com/in/kristoffer-waite-b81885216/',
         LINKEDIN_PIC: 'https://media.licdn.com/dms/image/C4E03AQFRsQZEbaNOrg/profile-displayphoto-shrink_400_400/0/1516190707653?e=1684368000&v=beta&t=Dysj_6P5bVewAfCQ0cDPyeBVX3wqCNP05CWHuyO6W2Y'
       },
       distDir: '../server/public'
