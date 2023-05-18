@@ -66,7 +66,7 @@ module.exports = configure(function ( ctx ) {
         CREATOR_NAME: 'Kristoffer Waite',
         CREATOR_EMAIL: 'Kristoffer.Waite@bronxsoftware.org',
         LINKEDIN: 'https://www.linkedin.com/in/kristoffer-waite-b81885216/',
-        LINKEDIN_PIC: 'https://media.licdn.com/dms/image/C4E03AQFRsQZEbaNOrg/profile-displayphoto-shrink_400_400/0/1516190707653?e=1684368000&v=beta&t=Dysj_6P5bVewAfCQ0cDPyeBVX3wqCNP05CWHuyO6W2Y'
+        LINKEDIN_PIC: 'https://media.licdn.com/dms/image/D4D35AQFFl4D2yTkezQ/profile-framedphoto-shrink_400_400/0/1625803964722?e=1685026800&v=beta&t=5SWPn3GHK-FBJ3G23DwCKcIJ2d2x--yt7qCgDoe2qXs'
       },
       distDir: '../server/public'
  
